@@ -1,0 +1,99 @@
+High level:
+Read to code  :
+lagre and Rich lib : 
+open souce  
+	download ffrom google 
+Dymincally :
+C/C++
+Object Oriented 
+GUI : tinkinter
+Robitice :
+	 AI & ML :
+	ML with python 
+Interpredted :
+ 
+Poratble
+	32 : 
+	64 :
+
+
+
+
+Operators :
+	Arthematics
+		+ , - ,* / 
+
+	compersion opeatior 
+		==, <= ,> = !=
+		      gt, lt ,gte, lte
+	 Logical opertor :
+		&& , || , !
+		and ,or , not
+	Assinment operstor : 
+		a=10;
+	increment and drcremetn: a++,++A ,--a,a--
+
+stattetn: 
+	if 
+	if else
+	if else ladder:
+		if 
+		elif
+		elif
+		else
+	switch  : no 
+
+loop :
+	for 
+	while 
+	do while  : no 
+
+jumping 
+	goto : no 
+	break : 
+	continue
+	return 
+
+
+
+
+
+	List 			Set 
+
+	odered : 			no order : 
+	dup : yes 			no dup 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+
+
+
+
+
+ 
+
